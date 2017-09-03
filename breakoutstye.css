@@ -1,0 +1,30 @@
+body{
+	background-color: yellow;
+}
+h1{
+	font-family: tahoma;
+	font-weight: 800;
+	font-style: italic;
+	text-align: center;
+	text-decoration: underline;
+	text-transform: uppercase;
+	letter-spacing: 0.1em;
+	word-spacing: 0.3em;
+	background-color: #00ff00;
+	border: 2px ;
+	border-color: #333;
+	border-style: solid;
+	border-radius: 15px;
+	margin: 5px;
+	padding: 5px;
+}
+footer{
+			text-align: center;
+			background-color:black;
+			color: white;
+		}
+h2{
+	text-align: center;
+	text-transform: uppercase;
+	text-decoration: underline;
+}		
