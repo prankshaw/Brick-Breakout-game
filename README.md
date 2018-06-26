@@ -1,5 +1,5 @@
 # Brick-Breakout-game
-## Play this game at --
+## Play Now
 Play this game at -- https://pranjalbrickbreakout.netlify.com/
 ## Development
 A Brick breakout game, developed with basic javascript and CSS. 
